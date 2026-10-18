@@ -4,6 +4,10 @@ A web app that classifies the sentiment of any text as **Positive**, **Negative*
 
 **Stack:** Svelte · Vite · Python · Flask · Hugging Face Transformers (DistilBERT) · SQLite
 
+## Screenshot
+
+![A review classified as positive with 98% confidence, with the probability split and history statistics](docs/screenshots/analyzer.png)
+
 ## Features
 
 - Analyze any text (up to 2,000 characters) and see the predicted label, model confidence and the positive / neutral / negative probability split
