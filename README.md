@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Sentiment Analyzer
+# Sentiment Analyzer
 
 A web app that classifies the sentiment of any text as **Positive**, **Negative** or **Neutral** using the **DistilBERT** NLP model, and keeps a searchable history of results in SQLite.
 
